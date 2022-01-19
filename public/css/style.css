@@ -106,7 +106,7 @@
 }
 
 .two {
-  padding: 50px 10px 80px 10px;
+  padding: 10px 10px 80px 10px;
 }
 .two h4 {
   color: #fd6e2f;
@@ -295,7 +295,10 @@ footer .ico {
   font-weight: 900;
   font-size: 3.5rem;
   color: white;
+  max-width: 800px;
+    margin: auto;
 }
+
 .breadcumb h5 {
   font-weight: 700;
   color: white;
@@ -418,4 +421,40 @@ footer .ico {
 .fixed-top 
 {
   background: white
+}
+
+.gs-bold
+{
+  font-weight: bold;
+}
+
+.gs-cities
+{
+  padding: 10px 100px;
+}
+.gs-cities .city-icon 
+{
+  width: 18px;
+}
+.gs-cities p 
+{
+  font-size: 22px;
+}
+
+.gs-city-box
+{
+  padding: 10px;
+}
+
+.gs-cities h2 a 
+{
+  color: #FD6E2F;
+  text-decoration: none;
+} 
+
+.gs-link a
+{
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
 }

@@ -10,6 +10,7 @@ import email from "../Img/email.png"
 import phone from "../Img/phone-call.png"
 
 
+
 export const Footer = () => {
     return (
         <>

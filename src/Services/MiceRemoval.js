@@ -134,12 +134,7 @@ const MiceRemoval = () => {
                 hesitate to contact us.
               </p>
 
-              <img
-                src="img/mice-nesting-infestation-residential-commercial.webp"
-                className="img-fluid rounded"
-                style={{width: "100%"}}
-                
-              />
+            
 
               <h4 className="pt-3">
                 Estimated Time For Mice and Rodents to Be Removed

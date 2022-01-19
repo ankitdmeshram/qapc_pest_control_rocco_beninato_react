@@ -76,21 +76,26 @@ const Nav = () => {
                       Services{" "}
                     </Link>
                   </li>
+                  <li className="nav-item active">
+                    <Link className="nav-link" to="location">
+                      Location{" "}
+                    </Link>
+                  </li>
                   <li className="nav-item">
                     <Link className="nav-link" to="contact">
                       Contact Us
                     </Link>
                   </li>
                   <li className="nav-item active">
-                    <Link
+                    <a
                       className="nav-link nav-link-white gs-btn"
-                      to="/"
+                      // href=""
                       data-toggle="modal"
                       data-target="#exampleModal"
                       style={{color: "white !important", borderRadius: "5px",padding: "5px 20px" }}
                     >
                       Hire Us{" "}
-                    </Link>
+                    </a>
                   </li>
                 </ul>
               </div>
