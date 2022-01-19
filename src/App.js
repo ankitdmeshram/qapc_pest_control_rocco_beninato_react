@@ -36,6 +36,26 @@ import KingCity from "./Location/KingCity";
 import Maple from "./Location/Maple";
 import Markham from "./Location/Markham";
 import MountAlbert from "./Location/MountAlbert";
+import NewCastle from "./Location/Newcastle";
+import NewMarket from "./Location/Newmarket";
+import Nobleton from "./Location/Nobleton";
+import NorthYork from "./Location/NorthYork";
+import Ontario from "./Location/Ontario";
+import Oshawa from "./Location/Oshawa";
+import Pickering from "./Location/Pickering";
+import PortPerry from "./Location/PortPerry";
+import RichmondHill from "./Location/RichmondHill";
+import Scarborough from "./Location/Scarborough";
+import Scugog from "./Location/Scugog";
+import Stouffville from "./Location/Stouffville";
+import Thornhill from "./Location/Thornhill";
+import Toronto from "./Location/Toronto";
+import TorontoBeaches from "./Location/TorontoBeaches";
+import Uxbridge from "./Location/Uxbridge";
+import Vaughan from "./Location/Vaughan";
+import Whitby from "./Location/Whitby";
+import Woodbridge from "./Location/Woodbridge";
+import YorkRegion from "./Location/YorkRegion";
 
 const App = () => {
   return (
@@ -86,9 +106,27 @@ const App = () => {
           <Route path="/pest-control-in-maple" element={<Maple />} />
           <Route path="/pest-control-in-markham" element={<Markham />} />
           <Route path="/pest-control-in-mount-albert" element={<MountAlbert />} />
+          <Route path="/pest-control-in-new-castle" element={<NewCastle />} />
+          <Route path="/pest-control-in-new-market" element={<NewMarket />} />
+          <Route path="/pest-control-in-nobleton" element={<Nobleton />} />
+          <Route path="/pest-control-in-north-york" element={<NorthYork />} />
+          <Route path="/pest-control-in-ontario" element={<Ontario />} />
+          <Route path="/pest-control-in-oshawa" element={<Oshawa />} />
+          <Route path="/pest-control-in-pickering" element={<Pickering />} />
+          <Route path="/pest-control-in-port-perry" element={<PortPerry />} />
+          <Route path="/pest-control-in-richmond-hill" element={<RichmondHill />} />
+          <Route path="/pest-control-in-scarborough" element={<Scarborough />} />
+          <Route path="/pest-control-in-scugog" element={<Scugog />} />
+          <Route path="/pest-control-in-stouffville" element={<Stouffville />} />
+          <Route path="/pest-control-in-thornhill" element={<Thornhill />} />
+          <Route path="/pest-control-in-toronto" element={<Toronto />} />
+          <Route path="/pest-control-in-toronto-beaches" element={<TorontoBeaches />} />
+          <Route path="/pest-control-in-uxbridge" element={<Uxbridge />} />
+          <Route path="/pest-control-in-vaughan" element={<Vaughan />} />
+          <Route path="/pest-control-in-whitby" element={<Whitby />} />
+          <Route path="/pest-control-in-woodbridge" element={<Woodbridge />} />
+          <Route path="/pest-control-in-york-region" element={<YorkRegion />} />
           
-          
-           
       
       
           

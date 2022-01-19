@@ -351,16 +351,16 @@ const Location = () => {
               <div className=" shadow rounded ">
                 <div className="card-body">
                   <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
+                    <Link to="/pest-control-in-new-castle">Pest Control Newcastle</Link>{" "}
                   </h2>
                   <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
+                    Providing best pest control services in Newcastle and surrounding
                     areas.
                   </p>
                   {phone()}
 
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
+                  <Link to="/pest-control-in-new-castle" className="btn gs-btn">
+                    View Newcastle
                   </Link>
                 </div>
               </div>
@@ -371,16 +371,16 @@ const Location = () => {
               <div className=" shadow rounded ">
                 <div className="card-body">
                   <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
+                    <Link to="/pest-control-in-new-market">Pest Control New Market</Link>{" "}
                   </h2>
                   <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
+                    Providing best pest control services in New Market and surrounding
                     areas.
                   </p>
                   {phone()}
 
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
+                  <Link to="/pest-control-in-new-market" className="btn gs-btn">
+                    View New Market
                   </Link>
                 </div>
               </div>
@@ -391,16 +391,16 @@ const Location = () => {
               <div className=" shadow rounded ">
                 <div className="card-body">
                   <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
+                    <Link to="/pest-control-in-nobleton">Pest Control Nobleton</Link>{" "}
                   </h2>
                   <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
+                    Providing best pest control services in Nobleton and surrounding
                     areas.
                   </p>
                   {phone()}
 
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
+                  <Link to="/pest-control-in-nobleton" className="btn gs-btn">
+                    View Nobleton
                   </Link>
                 </div>
               </div>
@@ -411,16 +411,16 @@ const Location = () => {
               <div className=" shadow rounded ">
                 <div className="card-body">
                   <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
+                    <Link to="/pest-control-in-north-york">Pest Control North York</Link>{" "}
                   </h2>
                   <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
+                    Providing best pest control services in North York and surrounding
                     areas.
                   </p>
                   {phone()}
 
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
+                  <Link to="/pest-control-in-north-york" className="btn gs-btn">
+                    View North York
                   </Link>
                 </div>
               </div>
@@ -431,16 +431,16 @@ const Location = () => {
               <div className=" shadow rounded ">
                 <div className="card-body">
                   <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
+                    <Link to="/pest-control-in-ontario">Pest Control Ontario</Link>{" "}
                   </h2>
                   <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
+                    Providing best pest control services in Ontario and surrounding
                     areas.
                   </p>
                   {phone()}
 
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
+                  <Link to="/pest-control-in-ontario" className="btn gs-btn">
+                    View Ontario
                   </Link>
                 </div>
               </div>
@@ -451,16 +451,16 @@ const Location = () => {
               <div className=" shadow rounded ">
                 <div className="card-body">
                   <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
+                    <Link to="/pest-control-in-oshawa">Pest Control Oshawa</Link>{" "}
                   </h2>
                   <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
+                    Providing best pest control services in Oshawa and surrounding
                     areas.
                   </p>
                   {phone()}
 
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
+                  <Link to="/pest-control-in-oshawa" className="btn gs-btn">
+                    View Oshawa
                   </Link>
                 </div>
               </div>
@@ -471,16 +471,16 @@ const Location = () => {
               <div className=" shadow rounded ">
                 <div className="card-body">
                   <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
+                    <Link to="/pest-control-in-pickering">Pest Control Pickering</Link>{" "}
                   </h2>
                   <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
+                    Providing best pest control services in Pickering and surrounding
                     areas.
                   </p>
                   {phone()}
 
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
+                  <Link to="/pest-control-in-pickering" className="btn gs-btn">
+                    View Pickering
                   </Link>
                 </div>
               </div>
@@ -491,16 +491,16 @@ const Location = () => {
               <div className=" shadow rounded ">
                 <div className="card-body">
                   <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
+                    <Link to="/pest-control-in-port-perry">Pest Control Port Perry</Link>{" "}
                   </h2>
                   <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
+                    Providing best pest control services in Port Perry and surrounding
                     areas.
                   </p>
                   {phone()}
 
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
+                  <Link to="/pest-control-in-port-perry" className="btn gs-btn">
+                    View Port Perry
                   </Link>
                 </div>
               </div>
@@ -511,16 +511,16 @@ const Location = () => {
               <div className=" shadow rounded ">
                 <div className="card-body">
                   <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
+                    <Link to="/pest-control-in-richmond-hill">Pest Control Richmond Hill</Link>{" "}
                   </h2>
                   <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
+                    Providing best pest control services in Richmond Hill and surrounding
                     areas.
                   </p>
                   {phone()}
 
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
+                  <Link to="/pest-control-in-richmond-hill" className="btn gs-btn">
+                    View Richmond Hill
                   </Link>
                 </div>
               </div>
@@ -531,16 +531,16 @@ const Location = () => {
               <div className=" shadow rounded ">
                 <div className="card-body">
                   <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
+                    <Link to="/pest-control-in-scarborough">Pest Control Scarborough</Link>{" "}
                   </h2>
                   <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
+                    Providing best pest control services in Scarborough and surrounding
                     areas.
                   </p>
                   {phone()}
 
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
+                  <Link to="/pest-control-in-scarborough" className="btn gs-btn">
+                    View Scarborough
                   </Link>
                 </div>
               </div>
@@ -551,16 +551,16 @@ const Location = () => {
               <div className=" shadow rounded ">
                 <div className="card-body">
                   <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
+                    <Link to="/pest-control-in-scugog">Pest Control Scugog</Link>{" "}
                   </h2>
                   <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
+                    Providing best pest control services in Scugog and surrounding
                     areas.
                   </p>
                   {phone()}
 
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
+                  <Link to="/pest-control-in-scugog" className="btn gs-btn">
+                    View Scugog
                   </Link>
                 </div>
               </div>
@@ -571,16 +571,16 @@ const Location = () => {
               <div className=" shadow rounded ">
                 <div className="card-body">
                   <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
+                    <Link to="/pest-control-in-stouffville">Pest Control Stouffville</Link>{" "}
                   </h2>
                   <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
+                    Providing best pest control services in Stouffville and surrounding
                     areas.
                   </p>
                   {phone()}
 
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
+                  <Link to="/pest-control-in-stouffville" className="btn gs-btn">
+                    View Stouffville
                   </Link>
                 </div>
               </div>
@@ -591,16 +591,16 @@ const Location = () => {
               <div className=" shadow rounded ">
                 <div className="card-body">
                   <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
+                    <Link to="/pest-control-in-thornhill">Pest Control Thornhill</Link>{" "}
                   </h2>
                   <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
+                    Providing best pest control services in Thornhill and surrounding
                     areas.
                   </p>
                   {phone()}
 
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
+                  <Link to="/pest-control-in-thornhill" className="btn gs-btn">
+                    View Thornhill
                   </Link>
                 </div>
               </div>
@@ -611,16 +611,16 @@ const Location = () => {
               <div className=" shadow rounded ">
                 <div className="card-body">
                   <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
+                    <Link to="/pest-control-in-toronto">Pest Control Toronto</Link>{" "}
                   </h2>
                   <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
+                    Providing best pest control services in Toronto and surrounding
                     areas.
                   </p>
                   {phone()}
 
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
+                  <Link to="/pest-control-in-toronto" className="btn gs-btn">
+                    View Toronto
                   </Link>
                 </div>
               </div>
@@ -631,16 +631,16 @@ const Location = () => {
               <div className=" shadow rounded ">
                 <div className="card-body">
                   <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
+                    <Link to="/pest-control-in-toronto-beaches">Pest Control Toronto Beaches</Link>{" "}
                   </h2>
                   <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
+                    Providing best pest control services in Toronto Beaches and surrounding
                     areas.
                   </p>
                   {phone()}
 
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
+                  <Link to="/pest-control-in-toronto-beaches" className="btn gs-btn">
+                    View Toronto Beaches
                   </Link>
                 </div>
               </div>
@@ -651,16 +651,16 @@ const Location = () => {
               <div className=" shadow rounded ">
                 <div className="card-body">
                   <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
+                    <Link to="/pest-control-in-uxbridge">Pest Control Uxbridge</Link>{" "}
                   </h2>
                   <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
+                    Providing best pest control services in Uxbridge and surrounding
                     areas.
                   </p>
                   {phone()}
 
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
+                  <Link to="/pest-control-in-uxbridge" className="btn gs-btn">
+                    View Uxbridge
                   </Link>
                 </div>
               </div>
@@ -671,16 +671,16 @@ const Location = () => {
               <div className=" shadow rounded ">
                 <div className="card-body">
                   <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
+                    <Link to="/pest-control-in-vaughan">Pest Control Vaughan</Link>{" "}
                   </h2>
                   <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
+                    Providing best pest control services in Vaughan and surrounding
                     areas.
                   </p>
                   {phone()}
 
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
+                  <Link to="/pest-control-in-vaughan" className="btn gs-btn">
+                    View Vaughan
                   </Link>
                 </div>
               </div>
@@ -691,16 +691,16 @@ const Location = () => {
               <div className=" shadow rounded ">
                 <div className="card-body">
                   <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
+                    <Link to="/pest-control-in-whitby">Pest Control Whitby</Link>{" "}
                   </h2>
                   <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
+                    Providing best pest control services in Whitby and surrounding
                     areas.
                   </p>
                   {phone()}
 
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
+                  <Link to="/pest-control-in-whitby" className="btn gs-btn">
+                    View Whitby
                   </Link>
                 </div>
               </div>
@@ -711,16 +711,16 @@ const Location = () => {
               <div className=" shadow rounded ">
                 <div className="card-body">
                   <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
+                    <Link to="/pest-control-in-woodbridge">Pest Control Woodbridge</Link>{" "}
                   </h2>
                   <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
+                    Providing best pest control services in Woodbridge and surrounding
                     areas.
                   </p>
                   {phone()}
 
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
+                  <Link to="/pest-control-in-woodbridge" className="btn gs-btn">
+                    View Woodbridge
                   </Link>
                 </div>
               </div>
@@ -731,100 +731,21 @@ const Location = () => {
               <div className=" shadow rounded ">
                 <div className="card-body">
                   <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
+                    <Link to="/pest-control-in-york-region">Pest Control York Region</Link>{" "}
                   </h2>
                   <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
+                    Providing best pest control services in York Region and surrounding
                     areas.
                   </p>
                   {phone()}
 
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
+                  <Link to="/pest-control-in-york-region" className="btn gs-btn">
+                    View York Region
                   </Link>
                 </div>
               </div>
             </div>
 
-
-            <div className="col-lg-4 gs-city-box">
-              <div className=" shadow rounded ">
-                <div className="card-body">
-                  <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
-                  </h2>
-                  <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
-                    areas.
-                  </p>
-                  {phone()}
-
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
-                  </Link>
-                </div>
-              </div>
-            </div>
-
-
-            <div className="col-lg-4 gs-city-box">
-              <div className=" shadow rounded ">
-                <div className="card-body">
-                  <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
-                  </h2>
-                  <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
-                    areas.
-                  </p>
-                  {phone()}
-
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
-                  </Link>
-                </div>
-              </div>
-            </div>
-
-
-            <div className="col-lg-4 gs-city-box">
-              <div className=" shadow rounded ">
-                <div className="card-body">
-                  <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
-                  </h2>
-                  <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
-                    areas.
-                  </p>
-                  {phone()}
-
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
-                  </Link>
-                </div>
-              </div>
-            </div>
-
-
-            <div className="col-lg-4 gs-city-box">
-              <div className=" shadow rounded ">
-                <div className="card-body">
-                  <h2 className="card-title gs-bold ">
-                    <Link to="/pest-control-in-keswick">Pest Control Keswick</Link>{" "}
-                  </h2>
-                  <p className="card-text">
-                    Providing best pest control services in Keswick and surrounding
-                    areas.
-                  </p>
-                  {phone()}
-
-                  <Link to="/pest-control-in-keswick" className="btn gs-btn">
-                    View Keswick
-                  </Link>
-                </div>
-              </div>
-            </div>
 
 
          
